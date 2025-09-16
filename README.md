@@ -18,7 +18,7 @@
 
 ```bash
 # 一键安装到服务器
-curl -fsSL https://raw.githubusercontent.com/sindricn/s-hy2/main/quick-install.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/yanghs520/s-hy2/main/quick-install.sh | sudo bash
 
 # 运行脚本
 sudo s-hy2
@@ -28,7 +28,7 @@ sudo s-hy2
 
 ```bash
 # 下载脚本
-wget https://raw.githubusercontent.com/sindricn/s-hy2/main/hy2-manager.sh
+wget https://raw.githubusercontent.com/yanghs520/s-hy2/main/hy2-manager.sh
 
 # 添加执行权限
 chmod +x hy2-manager.sh
